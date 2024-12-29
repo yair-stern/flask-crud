@@ -16,7 +16,7 @@ A simple CRUD app for managing expenses using Python, Flask, and JSON. HTML temp
 ## Installation
 1. Clone the repository and navigate to the folder:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yair-stern/flask-crud.git
    cd expense_manager
    ```
 2. Install Flask:
