@@ -20,10 +20,14 @@ A simple CRUD app for managing expenses using Python, Flask, and JSON. HTML temp
    cd expense_manager
    ```
 2. Install Flask:
+3. ```bash
+   pip install -r .\reruirement.txt
+   ```
+   Or
    ```bash
    pip install flask
    ```
-3. Create a JSON file:
+4. Create a JSON file:
    ```bash
    echo "[]" > expenses.json
    ```
